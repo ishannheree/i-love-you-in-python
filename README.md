@@ -20,7 +20,7 @@ python ily.py
 ```
 
 ## Credit
-made by ishannheree using [turtle](https://pypi.org/project/turtle/)
+made by ishannheree using [turtle](https://pypi.org/project/turtle/) nd tkinter
 
 `skid if u want lol idfc`
 
